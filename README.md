@@ -222,7 +222,7 @@ AVA Decision Studio is the first module of a larger Vehicle Architecture Decisio
 Senior Engineer — Advanced Vehicle Architecture (AVA)
 Mahindra Research Valley, Chennai
 
-Background: BIW Engineering · Tool Engineering (M.Tech) · Data Science & AI
+Background: Advance Vehicle Architecture · Tool Engineering (M.Tech) · Data Science & AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 
